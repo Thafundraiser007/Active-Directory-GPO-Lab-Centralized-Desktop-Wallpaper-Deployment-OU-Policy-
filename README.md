@@ -1,0 +1,2 @@
+# Active-Directory-GPO-Lab-Centralized-Desktop-Wallpaper-Deployment-OU-Policy-
+This lab demonstrates how to configure a Group Policy Object (GPO) in Active Directory to deploy a centralized desktop wallpaper across all users within a specific Organizational Unit (OU). It includes policy creation, linking, testing, and verification steps to ensure consistent desktop environment settings across domain-joined computers
